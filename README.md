@@ -1,2 +1,2 @@
 # Emanon
-How do u do?
+How do you do?
