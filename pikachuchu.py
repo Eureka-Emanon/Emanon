@@ -344,6 +344,8 @@ while A:
         time.sleep(3)
         print("\n参考资料：https://github.com/Karobben/Karobben-Work-Station/blob/master")
         time.sleep(3)
+        print("\n源码: https://github.com/Eureka-Emanon/Emanon")
+        time.sleep(3)
         print("\n\n---Life is short,I use Python---")
         A=0
 
@@ -351,4 +353,5 @@ time.sleep(24*3600)  # 休眠24小时
 print("\nA century's wait is too short.A day's pursuit is too long.\n")
 
 # Thanks for getting here.
+
 
