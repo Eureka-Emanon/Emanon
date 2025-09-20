@@ -349,4 +349,6 @@ while A:
 
 time.sleep(24*3600)  # 休眠24小时
 print("\nA century's wait is too short.A day's pursuit is too long.\n")
+
 # Thanks for getting here.
+
