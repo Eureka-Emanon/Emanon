@@ -318,7 +318,7 @@ while A:
         time.sleep(1)
     elif(cnt==90):
         cnt+=1
-        print("120 seconds passed...")
+        print("90 seconds passed...")
         time.sleep(1)
     elif(120>cnt>90) :
         cnt+=1
@@ -355,11 +355,13 @@ while A:
         print("\n\n---Life is short,I use Python---")
         A=0
 
-time.sleep(24*3600)  # 休眠24小时
-print("\nA century's wait is too short.A day's pursuit is too long.\n")
+time.sleep(3600)  # 休眠1小时
+print("\n一百年过去,就是实打实的度过了")
+time.sleep(3)
+print("\n而一小时--我不相信有人会挂载这程序一小时")
+time.sleep(3)
+print("\n所以")
+time.sleep(3)
+print("\n一个世纪太短,一个小时太长\n")
 
-# Thanks for getting here.
-
-
-
-
+#Thanks for getting here.
